@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @prakasitlasree
+- 👋 Hi, I’m @skynet
 - 👀 I’m interested in software engineer.
 - 🌱 I’m currently working with enterprise company in thailand.
 - 💞️ I’m looking to collaborate on ...
